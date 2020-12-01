@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "A Slime Hut",
+"dataUrl": "ASH.data.unityweb",
+"asmCodeUrl": "ASH.asm.code.unityweb",
+"asmMemoryUrl": "ASH.asm.memory.unityweb",
+"asmFrameworkUrl": "ASH.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
